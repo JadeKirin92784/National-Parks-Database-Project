@@ -1,7 +1,9 @@
 # National-Parks-Database-Project
-This program allows users to see descriptions of national parks and to make reservations at certain sites within the park campgrounds.
+This program allows users to see descriptions of national parks and to make reservations at certain sites within the park campgrounds. It was originally a capstone project during my time at Tech Elevator. 
 
-The database which the users can make changes to is included in teh database folder. The file is named campground.sql
+The original project requirements can be found in a readme within the etc folder.
+
+The database which the users can make changes to is included in the database folder. The file is named campground.sql
 
 List of program's functionality:
 
