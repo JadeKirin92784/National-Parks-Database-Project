@@ -1,6 +1,9 @@
 # National-Parks-Database-Project
-This simulates a program to see descriptions of national parks and to make reservations at certain sites within the park campgrounds.
-List of functionality:
+This program allows users to see descriptions of national parks and to make reservations at certain sites within the park campgrounds.
+
+The database which the users can make changes to is included in teh database folder. The file is named campground.sql
+
+List of program's functionality:
 
 1. Users of the system can view a list of available parks int he system, sorted alphabetically by name
   
